@@ -1,0 +1,26 @@
+adadyy
+
+
+adadyy
+adadyy
+adadyy
+
+dadyy
+
+
+
+
+
+
+
+
+insetr
+
+tail -n hello.txt
+
+
+
+!wq
+:wq
+
+
