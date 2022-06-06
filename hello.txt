@@ -1,25 +1,12 @@
 adadyy
-
-
 adadyy
 adadyy
 adadyy
-
 dadyy
-
-
-
-
-
-
-
-
 insetr
+tail -n hello.tx
 
-tail -n hello.txt
-
-
-
+天祥的修改
 !wq
 :wq
 
